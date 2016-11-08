@@ -1,2 +1,2 @@
 # hello-world
-My first try
+Trying to figure out how that works
